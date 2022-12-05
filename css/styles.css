@@ -860,30 +860,30 @@ a.hire-btn:hover{
     
 }
 #postprod{
-    background: url('/Portfolio/img/td2.jpg');
+    background: url('/img/td2.jpg');
     
 }
 #pic{
-    background: url('/Portfolio/img/td2.jpg');
+    background: url('/img/td2.jpg');
     
 }
 #picc{
-    background: url('/Portfolio/img/td2.jpg');
+    background: url('/img/td2.jpg');
     
 }
 #wprocess{
     background: #010101;
 }
 #hire{
-    background: url('/Portfolio/img/td.jpg');
+    background: url('/img/td.jpg');
 }
 #qoutes{
-    background: url('/Portfolio/img/td.jpg');
+    background: url('/img/td.jpg');
 }
 /* 6 - Home
 ------------------------------------------------------------------------*/
 #home{
-    background: url('/Portfolio/img/main.jpg');
+    background: url('/img/main.jpg');
     /* background-attachment: fixed !important; */
     background-position: top;
     background-repeat: no-repeat;
